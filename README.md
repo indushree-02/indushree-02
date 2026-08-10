@@ -72,6 +72,6 @@ An application concept for tracking a bus location and sharing live coordinates.
 
 ### Let's connect
 
-<a href="https://www.linkedin.com/in/indushree-h-47968a33a">LinkedIn</a> · <a href="mailto:induindushree02@gmail.com">Email</a> · <a href="https://indushree-02.github.io">Portfolio</a>
+<a href="https://www.linkedin.com/in/indushree-h-47968a33a">LinkedIn</a> · <a href="mailto:induindushree02@gmail.com">Email</a> 
 
 </div>
