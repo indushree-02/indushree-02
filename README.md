@@ -2,7 +2,7 @@
 
 # Hi, I'm Indushree H 👋
 
-### B.E. Computer Science & Engineering Student | Aspiring Software Engineer | Web Development Learner
+### CSE Student | Data Analytics & AI Enthusiast |
 
 <a href="https://www.linkedin.com/in/indushree-h-47968a33a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:induindushree02@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -14,9 +14,9 @@
 ## 👩‍💻 About me
 
 - 🎓 B.E. in Computer Science & Engineering at **HBKB College of Engineering, Bengaluru** (2023-2027)
-- 🌱 Currently growing my skills in **software engineering** and **web development**
-- 🧠 Interested in solving practical problems through clear, useful software
-- 🤝 Open to entry-level opportunities, internships, and collaborative learning
+- 🌱 Currently growing my skills in **Data Analytics** and **AI tools**
+- 🧠 Interested in solving practical problems through ideas, analysing and structuring data by useful software
+- 🤝 Open to entry-level opportunities, internships, and learning to grow myself
 
 ## 🛠️ Technical toolkit
 
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-**Core foundations:** Data Structures · DBMS · Operating Systems
+**Core foundations:** Python, C, Data Structures, and Problem Solving 
 
 ## 🚀 Projects
 
