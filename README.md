@@ -63,7 +63,7 @@ An application concept for tracking a bus location and sharing live coordinates.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indushree-02&theme=tokyonight&hide_border=true" alt="Indushree's GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com/?user=indushree-02&theme=tokyonight&hide_border=true" alt="Indushree's GitHub Contribution Streak" />
 </p>
 
 <p align="center">
