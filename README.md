@@ -69,14 +69,12 @@ An application concept for tracking a bus location and sharing live coordinates.
 ## 🧩 LeetCode Journey
 
 <p align="center">
-  <img src="https://leetcode-status.vercel.app/api/card/Indushree05?theme=dark" alt="Indushree05 LeetCode Status" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Indushree05?theme=dark&show=graph" alt="Indushree05 LeetCode Stats" />
 </p>
 
 <p align="center">
   <i>Consistency over perfection 🚀</i>
 </p>
-
----
 
 <div align="center">
 
