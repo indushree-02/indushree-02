@@ -67,7 +67,7 @@ An application concept for tracking a bus location and sharing live coordinates.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=indushree-02&theme=tokyo-night&hide_border=true" alt="Indushree's GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=indushree-02&theme=tokyo-night&hide_border=true&area=true&custom_title=GitHub%20Activity%20by%20Month" alt="Indushree's GitHub Activity Graph" />
 </p>
 
 ## 🧩 LeetCode Journey
