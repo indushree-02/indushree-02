@@ -56,14 +56,18 @@ An application concept for tracking a bus location and sharing live coordinates.
 - ISTE (Indian Society for Technical Education) student member
 - SIH Hackathon participant and student event coordinator
 
-## 📈 GitHub activity
+## 📈 GitHub Activity
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=indushree-02&show_icons=true&theme=tokyonight&hide_border=true" alt="Indushree's GitHub statistics" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=indushree-02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Indushree's GitHub Statistics" />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indushree-02&theme=tokyonight&hide_border=true" alt="Indushree's GitHub contribution streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indushree-02&theme=tokyonight&hide_border=true" alt="Indushree's GitHub Contribution Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=indushree-02&theme=tokyo-night&hide_border=true" alt="Indushree's GitHub Activity Graph" />
 </p>
 
 ## 🧩 LeetCode Journey
