@@ -69,7 +69,7 @@ An application concept for tracking a bus location and sharing live coordinates.
 ## 🧩 LeetCode Journey
 
 <p align="center">
-  <img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=Indushree05&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcode-status.vercel.app/api/card/Indushree05?theme=dark" alt="Indushree05 LeetCode Status" />
 </p>
 
 <p align="center">
