@@ -66,6 +66,16 @@ An application concept for tracking a bus location and sharing live coordinates.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=indushree-02&theme=tokyonight&hide_border=true" alt="Indushree's GitHub contribution streak" />
 </p>
 
+## 🧩 LeetCode Journey
+
+<p align="center">
+  <img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=Indushree05&theme=dark" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <i>Consistency over perfection 🚀</i>
+</p>
+
 ---
 
 <div align="center">
