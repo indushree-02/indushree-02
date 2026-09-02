@@ -85,6 +85,16 @@ An application concept for tracking a bus location and sharing live coordinates.
 
 ### Let's connect
 
-<a href="https://www.linkedin.com/in/indushree-h-47968a33a">LinkedIn</a> · <a href="mailto:induindushree02@gmail.com">Email</a> 
+<h3 align="center">Let's connect</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/indushree-h-47968a33a">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:induindushree20@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20me%20an%20Email-7B4ABF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 </div>
