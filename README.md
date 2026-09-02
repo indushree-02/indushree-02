@@ -83,7 +83,6 @@ An application concept for tracking a bus location and sharing live coordinates.
 
 <div align="center">
 
-### Let's connect
 
 <h3 align="center">Let's connect</h3>
 
