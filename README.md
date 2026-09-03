@@ -50,7 +50,7 @@ An application concept for tracking a bus location and sharing live coordinates.
 
 > Add each project as its own GitHub repository, then turn the headings above into links to those repositories.
 
-## 📚 Learning & involvement
+## 📚 Learning & certifications
 
 - Web Development Virtual Internship - **ShadowFox**
 - NPTEL Online Certification - **Cyber Security and Privacy**
