@@ -14,7 +14,7 @@
 ## 👩‍💻 About me
 
 - 🎓 B.E. in Computer Science & Engineering at **HBKB College of Engineering, Bengaluru** (2023-2027)
-- 🌱 Currently growing my skills in **Data Analytics** and **AI tools**
+- 🌱 Currently growing my skills in **Data Analytics**, **Software Development**  and **AI tools**
 - 🧠 Interested in solving practical problems through ideas, analysing and structuring data by useful software
 - 🤝 Open to entry-level opportunities, internships, and learning to grow myself
 
